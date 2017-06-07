@@ -1,9 +1,9 @@
 # main text of home
 name: Jeff
-bio: Deadass timbs
+bio: understandable have a nice day
 
 # twitter summary info
-description: 
+description: deadass timbs
 
 # if it's an external image, update below for true
 # better with square images
@@ -57,7 +57,8 @@ authors:
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: 
+        
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
@@ -75,7 +76,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
